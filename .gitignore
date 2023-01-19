@@ -1,0 +1,6 @@
+.venv
+.vscode
+browser
+*.html
+*.xml
+playwright-log.txt

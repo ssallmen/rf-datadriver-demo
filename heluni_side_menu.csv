@@ -1,0 +1,19 @@
+*** Test Cases ***;${lang};${main_page};${menu_text};${final_page}
+Open 'Research units' Menu On 'research' Page (en);en;research;Research units;research/research-units
+Open 'Strategic research' Menu On 'research' Page (en);en;research;Strategic research;research/strategic-research
+Open 'Top research' Menu On 'research' Page (en);en;research;Top research;research/top-research
+Open 'Doctoral education' Menu On 'research' Page (en);en;research;Doctoral education;research/doctoral-education
+Open 'Research integrity' Menu On 'research' Page (en);en;research;Research integrity;research/research-integrity
+Open 'Services for researchers' Menu On 'research' Page (en);en;research;Services for researchers;research/services-researchers
+Open 'Tutkimusyksiköt' Menu On 'tutkimus' Page (fi);fi;tutkimus;Tutkimusyksiköt;tutkimus/tutkimusyksikot
+Open 'Strateginen tutkimus' Menu On 'tutkimus' Page (fi);fi;tutkimus;Strateginen tutkimus;tutkimus/strateginen-tutkimus
+Open 'Tutkimuksen huippuja' Menu On 'tutkimus' Page (fi);fi;tutkimus;Tutkimuksen huippuja;tutkimus/tutkimuksen-huippuja
+Open 'Tohtorikoulutus' Menu On 'tutkimus' Page (fi);fi;tutkimus;Tohtorikoulutus;tutkimus/tohtorikoulutus
+Open 'Vastuullinen tiede' Menu On 'tutkimus' Page (fi);fi;tutkimus;Vastuullinen tiede;tutkimus/vastuullinen-tiede
+Open 'Palvelut tutkijoille' Menu On 'tutkimus' Page (fi);fi;tutkimus;Palvelut tutkijoille;tutkimus/palvelut-tutkijoille
+Open 'Forsknings­enheter' Menu On 'forskning' Page (sv);sv;forskning;Forsknings­enheter;forskning/forsknings-enheter
+Open 'Strategisk forskning' Menu On 'forskning' Page (sv);sv;forskning;Strategisk forskning;forskning/strategisk-forskning
+Open 'Toppforskning' Menu On 'forskning' Page (sv);sv;forskning;Toppforskning;forskning/toppforskning
+Open 'Doktors­utbildning' Menu On 'forskning' Page (sv);sv;forskning;Doktors­utbildning;forskning/doktors-utbildning
+Open 'Ansvarsfull forskning' Menu On 'forskning' Page (sv);sv;forskning;Ansvars­full forskning;forskning/ansvars-full-forskning
+Open 'Tjänster för forskare' Menu On 'forskning' Page (sv);sv;forskning;Tjänster för forskare;forskning/tjanster-forskare
